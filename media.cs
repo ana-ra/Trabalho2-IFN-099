@@ -19,6 +19,7 @@ class Program
         //v2.1
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 4c43c3b (Versão 3)
 =======
         //v2.2
@@ -40,6 +41,9 @@ class Program
 =======
         //v2.1
 >>>>>>> 4c43c3b (Versão 3)
+=======
+        //v2.2
+>>>>>>> b78844a (Versão 2.2)
 
     }
 }
