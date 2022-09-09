@@ -4,7 +4,7 @@ class Program
 {
     public static void Main(string[] args)
     {
-        Console.WriteLine("Olá pessoal");
+        Console.WriteLine("Olá pessoal, tudo bem?");
 
         var resultado = (6 + 8) / 2;
         Console.Write("Media ");
